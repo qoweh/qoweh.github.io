@@ -2,7 +2,7 @@
 qoweh.github.io
 
 # self-introducion
-./introduction.html
+[👤 자기소개 페이지](./introdue.html)
 
 ## Downloads
 [📥 Download Example.pdf](./files/example.pdf)
