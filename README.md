@@ -2,7 +2,7 @@
 
 # self-introducion
 <!--[👤 자기소개 페이지](./introduce.html)-->
-[👤 자기소개 페이지](https://qoweh.github.io/introduce.html)
+[👤 자기소개 페이지](https://qoweh.github.io/introduce2.html)
 
 
 
