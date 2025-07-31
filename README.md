@@ -1,6 +1,6 @@
 # Welcome to qoweh.github.io 👋
 
-> Hello, World! I’m **Minwoo Kim**. <br>
+> Hello, World! I'm **Minwoo Kim**. <br>
 > **qoweh** is just **Minwoo** typed on a Korean keyboard layout. <br>
 
 ## 🚀 Quick Navigation
@@ -10,6 +10,7 @@
 |------|-------------|------|
 | 🏠 **Home** | About me & Introduction | [→ Go to Home](./index.md) |
 | 💼 **Portfolio** | Projects & Achievements | [→ View Portfolio](./portfolio.md) |
+| 📝 **Applications** | Program applications & records | [→ View Applications](./applications.md) |
 <!-- | 📚 **Blog** | Tech posts & Learning notes | [→ Read Blog](./blog.md) | -->
 <!-- | 📞 **Contact** | Get in touch | [→ Contact Info](./contact.md) | -->
 

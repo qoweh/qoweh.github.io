@@ -1,7 +1,7 @@
 # 💼 Portfolio
 
 ## 📍 Navigation
-- [🏠 Home](./index.md) | [💼 Portfolio](./portfolio.md)
+- [🏠 Home](./index.md) | [💼 Portfolio](./portfolio.md) | [📝 Applications](./applications.md)
 
 ---
 
