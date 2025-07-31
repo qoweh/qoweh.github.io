@@ -15,7 +15,7 @@ I'm passionate about **back-end development**, **developer communities**, and **
 
 ## 💡 What I Do
 - 🖥️ **Back-end Development**: Building robust server-side applications
-- 👥 **Community Engagement**: Active in developer communities like 멋쟁이사자처럼 (likelion)
+- 👥 **Community Engagement**: Active in developer communities like [멋쟁이사자처럼](https://likelion.university/)
 - 📖 **Knowledge Sharing**: Teaching and presenting technical topics
 - 🎯 **Problem Solving**: Turning ideas into practical solutions
 
@@ -26,7 +26,7 @@ I'm passionate about **back-end development**, **developer communities**, and **
 
 ## 📫 Get In Touch
 - **GitHub**: [qoweh](https://github.com/qoweh)
-- **Website**: [qoweh.github.io](https://qoweh.github.io)
+- **Email**: [rlaalsdn110@gmail.com](mailto:rlaalsdn110@gmail.com)
 
 ---
 *"Code with passion, share with purpose"*
