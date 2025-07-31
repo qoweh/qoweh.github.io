@@ -25,7 +25,6 @@
 - 🖥️ Hands-on practice using GitKraken
 - 👥 Introduced team collaboration workflows
 
-**Session Materials:**
 [📄 01. About Git and GitHub](./portfolio/git-github/01%20Git%20Understanding%20and%20Utilization.pdf)
 [📄 02. Git & GitKraken practice](./portfolio/git-github/02%20Git%20and%20GitHub%20101.pdf)
 
