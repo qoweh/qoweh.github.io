@@ -1,33 +1,43 @@
-# [qoweh.github.io](https://qoweh.github.io)
-## About Me
-Hello, World! I'm `Minwoo Kim`. 
-`qoweh` is just `Minwoo` typed on a Korean keyboard layout.
-I'm a junior majoring in Computer Science at [Korea National University of Transportation](https://www.ut.ac.kr/).  
-I'm passionate about back-end development, developer communities, and sharing what I learn.
+# Welcome to qoweh.github.io 👋
 
-## Portfolio
-### 🦁 likelion (멋쟁이사자처럼)
-- [**Trenditon**](./portfolio/trenditon/그라데이션K%202팀.pdf)  
-  A hackathon project: Spicy food-level rating website for foreigners.
-- [**Git & GitHub Session**](./portfolio/git-github/02%20Git%20and%20GitHub%20101.pdf)  
-  A beginner-friendly session introducing Git and GitHub using GitKraken.
-### ETC
-<details>
-  <summary>📅 [2023~2025]</summary>
+> Hello, World! I’m **Minwoo Kim**. <br>
+> **qoweh** is just **Minwoo** typed on a Korean keyboard layout. <br>
 
-- **2023.04.12. ~ 2023.11.15.**  
-  첫 번째로, 대학교 1학년 때 교내 **인권센터 서포터즈**로 활동했습니다.  
-  인권 교육, 부스 운영, 포스터 제작 등으로 인권센터를 홍보했습니다.
+## 🚀 Quick Navigation
 
-- **2023.11.11. ~ 2023.11.17.**  
-  **굿네이버스 NGO Traveler 캠페인**에 참여하여  
-  ‘건강 불평등’을 알리는 캠페인을 기획했습니다.
+### 📖 Main Pages
+| Page | Description | Link |
+|------|-------------|------|
+| 🏠 **Home** | About me & Introduction | [→ Go to Home](./index.md) |
+| 💼 **Portfolio** | Projects & Achievements | [→ View Portfolio](./portfolio.md) |
+<!-- | 📚 **Blog** | Tech posts & Learning notes | [→ Read Blog](./blog.md) | -->
+<!-- | 📞 **Contact** | Get in touch | [→ Contact Info](./contact.md) | -->
 
-- **2024.12.02. ~ 2024.12.06.**  
-  **UC Berkeley SCET 리더십 캠프** (경주 켄싱턴 리조트) 참가.  
-  고정관념 깨기, 커뮤니케이션 훈련, 거절 훈련 활동(물물교환: 쿠키 → 핸드크림 → 티백 → 맥주 키링).  
-  거절을 감정이 아닌 피드백으로 받아들이는 훈련이 되었습니다.
+### 🎯 Links
+- **GitHub**: [@qoweh](https://github.com/qoweh)
+- **University**: [Korea National University of Transportation](https://www.ut.ac.kr/)
+- **Email**: [rlaalsdn110@gmail.com](mailto:rlaalsdn110@gmail.com)
+<!-- - **Full Portfolio PDF**: [📋 Download](./portfolio/Postfolio.pdf) -->
+---
+## 🌟 Highlights
+**👨‍💻 Backend Developer** passionate about creating robust applications  
+**🦁 Community Member** at likelion ([멋쟁이사자처럼](https://likelion.university/))  
+**📚 Knowledge Sharer** who loves learning  
 
-- 📄 [PDF 보기](./portfolio/Postfolio.pdf)
+---
 
-</details>
+<!-- ## 📁 Repository Structure 
+```
+qoweh.github.io/
+├── index.md          # 🏠 Main homepage
+├── portfolio.md       # 💼 Portfolio showcase
+├── blog.md           # 📚 Blog posts (coming soon)
+├── contact.md        # 📞 Contact information
+├── introduce/        # 📋 Introduction materials
+└── portfolio/        # 🗂️ Project files & documents
+    ├── git-github/   # Git & GitHub session materials
+    └── trenditon/    # Trenditon hackathon project
+```
+---
+-->
+**Start exploring**: [🏠 **Go to Homepage**](./index.md)
