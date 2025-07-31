@@ -7,7 +7,7 @@
 
 ## 🦁 [likelion (멋쟁이사자처럼)](https://likelion.university/)
 
-### [**Trenditon**](./portfolio/trenditon/그라데이션K%202팀.pdf)
+### **Trenditon**
 > **A hackathon project: Spicy food-level rating website for foreigners**
 
 > We developed a website to help foreigners easily understand the unique spiciness of Korean food.
@@ -17,8 +17,7 @@
 
 [📄 View Project Details](./portfolio/trenditon/그라데이션K%202팀.pdf)
 
----
-### [**Git & GitHub Session**](./portfolio/git-github/02%20Git%20and%20GitHub%20101.pdf)
+### **Git & GitHub Session**
 > **A beginner-friendly session introducing Git and GitHub using GitKraken**
 
 > A session hosted as part of the likelion club to introduce Git & GitHub.
